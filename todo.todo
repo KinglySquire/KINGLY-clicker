@@ -1,0 +1,14 @@
+☐ create a base layout
+✔ add word score @done(24-01-18 14:36)
+☐ add the score
+☐ add manual button
+☐ add auto button
+MANUAL BUTTON
+☐ make score(tm) go up when clicked
+AUTO BUTTON
+☐ make button cost score
+☐ disable if too poor
+☐ reenable if gamer (can afford)
+☐ make it auto go up one, per auto click bought, per 5 sec
+not at the same time
+☐ divide user tingy (autoclickers) by the tick rate
